@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "firrt",
+  "description": "firrt",
   "keywords": [
-    "vmess or vles"
+    "vmess "
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/rdceisj/firrt",
+  "repository": "https://github.com/rdceisj/firrt",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
